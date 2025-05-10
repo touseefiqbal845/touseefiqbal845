@@ -45,7 +45,7 @@
   <img height="75" style="margin-right: 10px;" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" />
 </p>
 
-### **Microservices Orchestrization and Deployments**
+- **Microservices Orchestrization and Deployments**
 <p align="left">
   <img height="75" src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" />
   <img height="75" src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" />
