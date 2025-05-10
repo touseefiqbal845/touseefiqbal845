@@ -61,6 +61,7 @@
   <img height="75" src="https://raw.githubusercontent.com/github/explore/master/topics/react-native/react-native.png" alt="React Native" />
 </p>
 
+---
 
 ### 💡 About Me
 
