@@ -13,36 +13,54 @@
 ---
 
 ### 🚀 Tech Stack & Tools I Work With
-
+- **Backend Languages**
 <p align="left">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react-native/react-native.png" alt="React Native" />
+
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Node.js" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" alt="Express.js" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" alt="Angular" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" alt="Vue.js" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" alt="Django" />
+ <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" alt="Django" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" alt="Laravel" />
+ <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" alt="Laravel" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/ruby-on-rails/ruby-on-rails.png" alt="Ruby on Rails" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" alt="PHP" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" alt="C#" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="Java" />
+</p>
+
+- **Frontend Languages**
+<p align="left">
+  
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" alt="Angular" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" alt="Vue.js" />
+</p>
+  
+- **App Development Languages**
+<p align="left">
+ 
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react-native/react-native.png" alt="React Native" />
+</p>
+
+- **Database**
+<p align="left">
+
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" alt="PostgreSQL" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" alt="MongoDB" />
+</p>
+
+  
+### 🧩 Microservices Orchestrization and Deployments
+
+<p align="left">
   <img height="40" src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" />
   <img height="40" src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" />
   <img height="40" src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" alt="Kubernetes" />
   <img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" />
+  <img height="40" src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg" alt="Kafka" />
+  <img height="40" src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="RabbitMQ" />
 </p>
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/19824574/41482054-47a3a702-70a2-11e8-9561-de51c5f71220.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/33750251/60287980-21aa2700-990b-11e9-9c9d-a79874587a86.png"></code>
-<code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png"></code>
+
 
 
 
