@@ -42,10 +42,18 @@
 
 - **Database**
 <p align="left">
-
-  <img height="75" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" alt="PostgreSQL" />
-  <img height="75" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" alt="MongoDB" />
+  <img height="75" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" />
+  <img height="75" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" />
+  <img height="75" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" />
+  <img height="75" src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="SQLite" />
+  <img height="75" src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" />
+  <img height="75" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="SQL Server" />
+  <img height="75" src="https://cdn.worldvectorlogo.com/logos/oracle.svg" alt="Oracle" />
+  <img height="75" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" />
+  <img height="75" src="https://cdn.worldvectorlogo.com/logos/apache-cassandra.svg" alt="Cassandra" />
+  <img height="75" src="https://cdn.worldvectorlogo.com/logos/neo4j.svg" alt="Neo4j" />
 </p>
+
 
   
 ### 🧩 Microservices Orchestrization and Deployments
