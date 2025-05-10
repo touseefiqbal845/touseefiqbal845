@@ -44,10 +44,7 @@
   <img height="75" style="margin-right: 10px;" src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="SQLite" />
   <img height="75" style="margin-right: 10px;" src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" />
   <img height="75" style="margin-right: 10px;" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" />
-  <img height="75" style="margin-right: 10px;" src="https://cdn.worldvectorlogo.com/logos/oracle.svg" alt="Oracle" />
   <img height="75" style="margin-right: 10px;" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" />
-  <img height="75" style="margin-right: 10px;" src="https://cdn.worldvectorlogo.com/logos/apache-cassandra.svg" alt="Cassandra" />
-  <img height="75" style="margin-right: 10px;" src="https://cdn.worldvectorlogo.com/logos/neo4j.svg" alt="Neo4j" />
 </p>
 
 
@@ -58,9 +55,10 @@
 <p align="left">
   <img height="75" src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" />
   <img height="75" src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" />
-  <img height="75" src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" alt="Kubernetes" />
   <img height="75" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" />
-  <img height="75" src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg" alt="Kafka" />
+   <img height="75" style="margin-right: 10px;" src="https://cdn.iconscout.com/icon/free/png-256/kubernetes-226092.png" alt="Kubernetes" />
+  <img height="75" style="margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Apache_Kafka_logo.svg/1200px-Apache_Kafka_logo.svg.png" alt="Apache Kafka" />
+
   <img height="75" src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="RabbitMQ" />
 </p>
 
