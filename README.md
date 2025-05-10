@@ -57,7 +57,7 @@
   <img height="75" src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" />
   <img height="75" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" />
    <img height="75" style="margin-right: 10px;" src="https://cdn.iconscout.com/icon/free/png-256/kubernetes-226092.png" alt="Kubernetes" />
-  <img height="75" style="margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Apache_Kafka_logo.svg/1200px-Apache_Kafka_logo.svg.png" alt="Apache Kafka" />
+  <img height="75" style="margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Apache_Kafka_logo.svg/1200px-Apache_Kafka_logo.svg.png](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*c3iIcOrrffEf4ZJnD_vLOQ.png" alt="Apache Kafka" />
 
   <img height="75" src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="RabbitMQ" />
 </p>
