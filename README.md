@@ -28,35 +28,35 @@
 
 - **Frontend Languages**
 <p align="left">
-  
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" alt="Angular" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" alt="Vue.js" />
+  <code><img height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+ 
+  <img height="75" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" alt="Angular" />
+  <img height="75" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" alt="Vue.js" />
 </p>
   
 - **App Development Languages**
 <p align="left">
  
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react-native/react-native.png" alt="React Native" />
+  <img height="75" src="https://raw.githubusercontent.com/github/explore/master/topics/react-native/react-native.png" alt="React Native" />
 </p>
 
 - **Database**
 <p align="left">
 
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" alt="PostgreSQL" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" alt="MongoDB" />
+  <img height="75" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" alt="PostgreSQL" />
+  <img height="75" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" alt="MongoDB" />
 </p>
 
   
 ### 🧩 Microservices Orchestrization and Deployments
 
 <p align="left">
-  <img height="40" src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" />
-  <img height="40" src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" />
-  <img height="40" src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" alt="Kubernetes" />
-  <img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" />
-  <img height="40" src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg" alt="Kafka" />
-  <img height="40" src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="RabbitMQ" />
+  <img height="75" src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" />
+  <img height="75" src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" />
+  <img height="75" src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" alt="Kubernetes" />
+  <img height="75" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" />
+  <img height="75" src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg" alt="Kafka" />
+  <img height="75" src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="RabbitMQ" />
 </p>
 
 
@@ -70,7 +70,7 @@
 - 🔭 I’m currently working on cutting-edge **Blockchain & AI Identity Platforms**
 - 💬 Ask me about **Full Stack Dev | System Programming | Blockchain | AI/ML | DevOps**
 - 🌍 I love building scalable systems and solving complex problems
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/touseef-iqbal-836400209) | [GitHub](https://github.com/touseefiqbal845)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/touseef-iqbal-836750209) | [GitHub](https://github.com/touseefiqbal845)
 
 ---
 
