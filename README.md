@@ -13,6 +13,7 @@
 ---
 
 ### 🚀 Tech Stack & Tools I Work With
+
 - **Backend Languages**
 <p align="left">
   <img height="75" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Node.js" />
@@ -29,12 +30,9 @@
 - **Frontend Languages**
 <p align="left">
   <code><img height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
- 
   <img height="75" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" alt="Angular" />
   <img height="75" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" alt="Vue.js" />
 </p>
-  
-
 
 - **Database**
 <p align="left">
@@ -47,32 +45,22 @@
   <img height="75" style="margin-right: 10px;" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" />
 </p>
 
-
-
-  
 ### 🧩 Microservices Orchestrization and Deployments
-
 <p align="left">
   <img height="75" src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" />
   <img height="75" src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" />
   <img height="75" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" />
-   <img height="75" style="margin-right: 10px;" src="https://cdn.iconscout.com/icon/free/png-256/kubernetes-226092.png" alt="Kubernetes" />
+  <img height="75" style="margin-right: 10px;" src="https://cdn.iconscout.com/icon/free/png-256/kubernetes-226092.png" alt="Kubernetes" />
   <img height="75" style="margin-right: 10px;" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*c3iIcOrrffEf4ZJnD_vLOQ.png" alt="Apache Kafka" />
-  <img height="75" style="margin-right: 10px;" src="https://takumicloud.com/static/images/technologies/techno-kub.png" alt="Kubernates" />
-  
-
+  <img height="75" style="margin-right: 10px;" src="https://takumicloud.com/static/images/technologies/techno-kub.png" alt="Kubernetes" />
   <img height="75" src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="RabbitMQ" />
 </p>
 
-- **App Development**?
+- **App Development**
 <p align="left">
- 
   <img height="75" src="https://raw.githubusercontent.com/github/explore/master/topics/react-native/react-native.png" alt="React Native" />
 </p>
 
-
-
----
 
 ### 💡 About Me
 
