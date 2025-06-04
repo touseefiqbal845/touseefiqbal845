@@ -1,16 +1,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 <h1 align="center">Hi there, I'm Touseef Iqbal 👋</h1>
 <h3 align="center">A 23-year-old Full Stack Developer & Senior Software Engineer from Pakistan 🇵🇰</h3>
 
