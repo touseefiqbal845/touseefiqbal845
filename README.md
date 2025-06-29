@@ -74,7 +74,7 @@
 
 - 🔭 I’m currently working on cutting-edge **Blockchain & AI Identity Platforms**
 - 💬 Ask me about **Full Stack Dev | System Programming | Blockchain | AI/ML | DevOps**
-- 🌍 I love building scalable systems and solving complex problems
+- 🌍 I love building scalable systems and solving complex problems , new solutions
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/touseef-iqbal-836750209) | [GitHub](https://github.com/touseefiqbal845)
 
 ---
