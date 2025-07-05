@@ -23,16 +23,15 @@
 
 - **Backend Languages**
 <p align="left">
-  <img height="10px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Node.js" />
-  <img style="height: 15px;" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" alt="Express.js" />
-  <img height="2px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" alt="Express.js" />
-  <img height="15" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" alt="Django" />
-  <img height="15" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" />
-  <img height="15" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" alt="Laravel" />
-  <img height="15" src="https://cdn.worldvectorlogo.com/logos/rails-1.svg" alt="Ruby on Rails" />
-  <img height="15" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" alt="PHP" />
-  <img height="15" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" alt="C#" />
-  <img height="15" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="Java" />
+  <img width="20px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Node.js" />
+  <img width="25px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" alt="Express.js" />
+  <img width="25px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" alt="Django" />
+  <img width="25px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" />
+  <img width="25px" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" alt="Laravel" />
+  <img width="25px" src="https://cdn.worldvectorlogo.com/logos/rails-1.svg" alt="Ruby on Rails" />
+  <img width="25px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" alt="PHP" />
+  <img width="25px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" alt="C#" />
+  <img width="25px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="Java" />
 </p>
 
 - **Frontend Languages**
