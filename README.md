@@ -25,7 +25,7 @@
 <p align="left">
   <img height="10px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Node.js" />
   <img style="height: 15px;" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" alt="Express.js" />
-  <img height="15" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" alt="Express.js" />
+  <img height="2px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" alt="Express.js" />
   <img height="15" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" alt="Django" />
   <img height="15" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" />
   <img height="15" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" alt="Laravel" />
