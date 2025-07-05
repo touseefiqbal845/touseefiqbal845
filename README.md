@@ -54,7 +54,7 @@
 
 - **Microservices Orchestrization and Deployments**
 <p align="left">
-  <img height="75" src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" />
+  <img height="20" src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" />
   <img height="75" src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" />
   <img height="75" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" />
   <img height="75" style="margin-right: 10px;" src="https://cdn.iconscout.com/icon/free/png-256/kubernetes-226092.png" alt="Kubernetes" />
