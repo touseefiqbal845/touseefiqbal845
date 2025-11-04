@@ -42,6 +42,10 @@
   <img width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" alt="PHP" />
   <img width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" alt="C#" />
   <img width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="Java" />
+  <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/ethereum/ethereum.png" alt="Ethereum" />
+  <img width="40" src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/info/logo.png" alt="Polygon" />
+  <img width="40" src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png" alt="BSC" />
+
   
 </p>
 
