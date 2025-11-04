@@ -15,6 +15,16 @@
   <img src="https://img.shields.io/badge/Code-Blockchain-black?style=flat-square&logo=ethereum" />
   <img src="https://img.shields.io/badge/AI/ML-Python-yellow?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/DevOps-Docker-blue?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/Solidity-333333?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" alt="Web3.js" />
+  <img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethers.js" />
+  <img src="https://img.shields.io/badge/Hardhat-3558A2?style=flat-square&logo=hardhat&logoColor=white" alt="Hardhat" />
+  <img src="https://img.shields.io/badge/Truffle-3C2255?style=flat-square&logo=truffle&logoColor=white" alt="Truffle" />
+  <img src="https://img.shields.io/badge/Ganache-00B894?style=flat-square&logo=ganache&logoColor=white" alt="Ganache" />
+  <img src="https://img.shields.io/badge/Foundry-222222?style=flat-square&logo=foundry&logoColor=white" alt="Foundry" />
+  <img src="https://img.shields.io/badge/Remix-0E76A8?style=flat-square&logo=remix&logoColor=white" alt="Remix IDE" />
+  <img src="https://img.shields.io/badge/OpenZeppelin-0b5fff?style=flat-square&logo=openzeppelin&logoColor=white" alt="OpenZeppelin" />
+
    </p>
 
 ---
@@ -34,9 +44,6 @@
   <img width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="Java" />
   
 </p>
-
-- **Blockchain Tools** 
-<p align="left"> <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/solidity/solidity.png" alt="Solidity" /> <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/web3/web3.png" alt="Web3.js" /> <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/ethers/ethers.png" alt="Ethers.js" /> <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/hardhat/hardhat.png" alt="Hardhat" /> <img width="40" src="https://avatars.githubusercontent.com/u/24747888?s=200&v=4" alt="Truffle" /> <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/ganache/ganache.png" alt="Ganache" /> <img width="40" src="https://avatars.githubusercontent.com/u/51109393?s=200&v=4" alt="Foundry" /> <img width="40" src="https://avatars.githubusercontent.com/u/104353046?s=200&v=4" alt="Remix IDE" /> <img width="40" src="https://avatars.githubusercontent.com/u/51960834?s=200&v=4" alt="OpenZeppelin" /> <img width="40" src="https://cryptologos.cc/logos/polygon-matic-logo.png" alt="Polygon" /> <img width="40" src="https://cryptologos.cc/logos/binance-coin-bnb-logo.png" alt="BSC" /> <img width="40" src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="Ethereum" /> </p>
 
 
 - **Frontend Languages**
