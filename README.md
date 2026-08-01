@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi there, I'm Touseef Iqbal 👋</h1>
-<h3 align="center">A 23-year-old Full Stack Developer & Senior Software Engineer & BlockChain & AI/ML from Pakistan 🇵🇰</h3>
+<h3 align="center">A 25-year-old Full Stack Developer & Senior Software Engineer & BlockChain & AI/ML from Pakistan 🇵🇰</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-MERN-blue?style=flat-square&logo=javascript" />
