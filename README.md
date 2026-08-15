@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center">Hi there, I'm Touseef Iqbal 👋</h1>
+<h1 align="center">Hi there, I'm Muhammad Touseef Iqbal 👋</h1>
 <h3 align="center">A 25-year-old Full Stack Developer & Senior Software Engineer & BlockChain & AI/ML from Pakistan 🇵🇰</h3>
 
 <p align="center">
